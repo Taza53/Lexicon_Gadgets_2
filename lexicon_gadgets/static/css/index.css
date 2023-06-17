@@ -1,0 +1,37 @@
+
+.cart {
+  color: black;
+}
+.btn {
+  padding: .55rem 1.5rem .45rem;
+}
+html {
+  position: relative;
+  min-height: 100%;
+  padding-bottom: 160px;
+}
+body {
+  margin-bottom: 160px;
+}
+
+
+h4 {
+  color: red;
+}
+
+h1 {
+  color: red;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  overflow: hidden;
+}
